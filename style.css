@@ -1,0 +1,48 @@
+html {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 58%, rgba(0,212,255,1) 95%);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    width: 20%;
+    height: 250px;
+    border-radius: 100%;
+    opacity: 80%;
+}
+
+
+.img-1 {
+    width: 40%;
+    text-align: center;
+}
+
+.vid {
+    width: 40%;
+}
+
+table,td{
+    border: 5px solid black;
+}
+
+div{
+    display: flow-root;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.btn-1 {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: blueviolet;
+    border-radius: 20%;
+    font-size: 20px;
+}
